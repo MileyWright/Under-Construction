@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>
-          Sorry, I'm currently being built.<br/> Come back later.
+          Sorry, I'm <span>currently </span>being built.<br/> Come <span> back </span> later.
         </h2>
         
       </header>
